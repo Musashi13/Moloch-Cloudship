@@ -32,6 +32,7 @@ While also allowing for many different ways to gamify each aspect we want.
 * yexzu.eth - b0gie
 * 0x986e92868A27548a31e88f7692E746CD7E86f39a - AperionCreations
 *  - Evo256
+*   - Emma_13
 
 ## Contracts
 
@@ -43,6 +44,15 @@ Gnosis Minion Contract: 0xa24489c24062a080b74039fba43e879b52425dc4
 #### Moloch Cloudship Booty(Gnosis Safe)
 Site: https://app.daohaus.club/dao/0x89/0x6da39b984811fa079ccdda88ddf2d168f03618ca/proposals
 Safe Address: 0x42E4a3C74221BE985bD8C8161b1Cea09cBc34280
+
+## Design Layout
+
+#### Commons
+
+* Greeting desk with maps
+* The Great Library (open source library of all daos)
+* DAO Dome (for all your governance needs)
+* Hall of DAO Portals (MG, GDN, MSG, ...)
 
 ## Platform Profiles
 
