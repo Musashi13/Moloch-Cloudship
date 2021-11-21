@@ -62,7 +62,7 @@ Safe Address: 0x42E4a3C74221BE985bD8C8161b1Cea09cBc34280
 #### Giveth
 
 
-## Grant Proposals
+## Grant Proposal Prospects
 
 #### Mirror
 * 
