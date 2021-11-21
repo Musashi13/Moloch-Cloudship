@@ -68,7 +68,7 @@ Safe Address: 0x42E4a3C74221BE985bD8C8161b1Cea09cBc34280
 * 
 
 #### Moloch DAO
-* $3,000
+* 
 
 #### SEED Club
 * 
