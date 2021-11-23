@@ -14,6 +14,11 @@
 * Make work fun
 * Incentivize quality work that helps the community
 * Promote fast product/service development
+4. Social Cohesiveness
+Intimate engagement
+One step closer to IRL
+Interactive events
+Tone, gestures, and body language are present, leading to more understanding and richer context
 
 ## What Is Moloch Cloudship
 
