@@ -2,7 +2,7 @@
 
 ## What is Moloch?
 
-In the web3 space, Moloch has come to represent failures of human coordination efforts. This can represent unintended consequences of industrial waste to intentional ethno-genocide.
+In the web3 space, Moloch has come to represent the god of coordination failure. We slay Moloch by creating coordination tools and infrastructure.
 
 ## Why Moloch Cloudship
 
