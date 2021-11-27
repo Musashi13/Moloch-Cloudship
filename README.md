@@ -1,10 +1,14 @@
 # Moloch Cloudship
 
+## What is Moloch?
+
+In the web3 space, Moloch has come to represent failures of human coordination efforts. This can represent unintended consequences of industrial waste to intentional ethno-genocide.
+
 ## Why Moloch Cloudship
 
-1. Wrangling Entropy
-* Siloing work, communication, coordination into one hub
-* Providing an simple, visual, tangible work flow
+1. Reducing Entropy
+* Gether work, communication, and coordination into one hub
+* Provide a simple, visual, tangible work flow
 * Build rich work spaces with ample integrations
 2. DAO to DAO Coordination
 * Break down barriers between DAO coordination
@@ -31,24 +35,29 @@ In MetaGame we are currently looking to gamify our work as well.
 This allows us to silo everything we do in discord, notion, discourse, snapshot, github, etc all in one platform.
 While also allowing for many different ways to gamify each aspect we want.
 
+Every DAO owns and wholly runs their own space. To be apart of the ship, simply making a portal to the Moloch Commons Hub will connect you to the ship. Our team will work with you to place yyou within the Cloudship Blueprints and listed in the Commons.
+
 ## DAO Members
 
-* Musashi13.eth - 🐙Musashi13#5579
-* yexzu.eth - b0gie
-* 0x986e92868A27548a31e88f7692E746CD7E86f39a - AperionCreations
-*  - Evo256
-*   - Emma_13
+* 🐙Musashi13#5579
+* AperionCreations
+* Emma_13
+* Misanth
 
 ## Contracts
 
-#### Moloch Cloudship(DaoHaus)
+#### Moloch Cloudship(DaoHaus/Polygon)
 Site: https://app.daohaus.club/dao/0x89/0x6da39b984811fa079ccdda88ddf2d168f03618ca/proposals
 Contract: 0x6Da39B984811FA079CcDDA88dDf2D168f03618ca
 Gnosis Minion Contract: 0xa24489c24062a080b74039fba43e879b52425dc4
 
-#### Moloch Cloudship Booty(Gnosis Safe)
+#### Moloch Cloudship Booty(Gnosis Safe/Polygon)
 Site: https://app.daohaus.club/dao/0x89/0x6da39b984811fa079ccdda88ddf2d168f03618ca/proposals
 Safe Address: 0x42E4a3C74221BE985bD8C8161b1Cea09cBc34280
+
+#### Moloch Cloudship Booty(Gnosis-Safe/Ethereum)
+Site: https://gnosis-safe.io/app/eth:0xC70Bb1b4AA3986572AB6Fe8c3247e613E1D23a3c/balances
+Safe Address: 0xC70Bb1b4AA3986572AB6Fe8c3247e613E1D23a3c
 
 ## Design Layout
 
@@ -68,9 +77,6 @@ Safe Address: 0x42E4a3C74221BE985bD8C8161b1Cea09cBc34280
 
 
 ## Grant Proposal Prospects
-
-#### Mirror
-* 
 
 #### Moloch DAO
 * 
@@ -92,7 +98,3 @@ Safe Address: 0x42E4a3C74221BE985bD8C8161b1Cea09cBc34280
 
 #### Meta Game
 *
-
-#### Giveth
-*
-
