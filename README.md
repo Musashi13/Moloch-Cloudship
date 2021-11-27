@@ -35,7 +35,7 @@ In MetaGame we are currently looking to gamify our work as well.
 This allows us to silo everything we do in discord, notion, discourse, snapshot, github, etc all in one platform.
 While also allowing for many different ways to gamify each aspect we want.
 
-Every DAO owns and wholly runs their own space. To be apart of the ship, simply making a portal to the Moloch Commons Hub will connect you to the ship. Our team will work with you to place yyou within the Cloudship Blueprints and listed in the Commons.
+Every DAO owns and wholly runs their own space. To be apart of the ship, simply making a portal to the Moloch Commons Hub will connect you to the ship. Our team will work with each DAO/community to place each community space within the Cloudship Blueprints and listed in the Commons areas of the ship.
 
 ## DAO Members
 
