@@ -32,12 +32,13 @@ We build a spaceship in Neos. As we walk through the halls we see doors with sig
 
 Every DAO wholly owns and runs their own space. To be apart of the ship, simply making a portal to the Moloch Commons Hub will connect you to the ship. Our team will work with each DAO/community to place each community space within the Cloudship Blueprints and listed in the Commons areas of the ship.
 
-## DAO Members
+## Build Team
 
 * 🐙Musashi13#5579
 * AperionCreations
 * Emma_13
 * Misanth
+* Bogie
 
 ## Contracts
 
