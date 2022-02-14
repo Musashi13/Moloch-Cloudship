@@ -36,9 +36,9 @@ Every DAO wholly owns and runs their own space. To be apart of the ship, simply 
 
 * 🐙Musashi13#5579
 * AperionCreations
-* Emma_13
 * Misanth
 * Bogie
+* 150
 
 ## Contracts
 
